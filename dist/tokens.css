@@ -1,0 +1,16 @@
+:root {
+  --ground: #0f100d;
+  --ground-c: 15 16 13;
+  --ink: #f1f0f0;
+  --ink-c: 241 240 240;
+  --silver: #a6a6a5;
+  --silver-c: 166 166 165;
+  --steel: #51514f;
+  --steel-c: 81 81 79;
+  --ease: cubic-bezier(.2, .8, .2, 1);
+  --ease-out: cubic-bezier(.3, .7, .25, 1);
+  --t-fast: .2s;
+  --t-mid: .55s;
+  --t-slow: .6s;
+  --t-pulse: 1.8s;
+}

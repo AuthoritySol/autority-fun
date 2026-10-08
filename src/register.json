@@ -1,0 +1,67 @@
+{
+  "records": {
+    "ca": {
+      "label": "Contract address",
+      "kind": "address",
+      "state": "absent",
+      "value": null,
+      "url": null
+    },
+    "x": {
+      "label": "X",
+      "kind": "social",
+      "state": "absent",
+      "value": null,
+      "url": null
+    },
+    "github": {
+      "label": "GitHub",
+      "kind": "social",
+      "state": "absent",
+      "value": null,
+      "url": null
+    },
+    "domain": {
+      "label": "Domain",
+      "kind": "text",
+      "state": "stated",
+      "value": "autority.fun",
+      "url": "https://autority.fun/"
+    },
+    "chain": {
+      "label": "Chain",
+      "kind": "text",
+      "state": "stated",
+      "value": "Solana",
+      "url": null
+    },
+    "rpc": {
+      "label": "RPC",
+      "kind": "endpoint",
+      "state": "stated",
+      "value": "confirmed",
+      "url": "https://solana-rpc.publicnode.com"
+    },
+    "dex": {
+      "label": "DexScreener search",
+      "kind": "endpoint",
+      "state": "stated",
+      "value": "autority",
+      "url": "https://api.dexscreener.com/latest/dex/search?q=autority"
+    },
+    "dexTrending": {
+      "label": "DexScreener boosts",
+      "kind": "endpoint",
+      "state": "stated",
+      "value": "solana",
+      "url": "https://api.dexscreener.com/token-boosts/top/v1"
+    },
+    "dexTokens": {
+      "label": "DexScreener tokens",
+      "kind": "endpoint",
+      "state": "stated",
+      "value": "solana",
+      "url": "https://api.dexscreener.com/tokens/v1/solana/"
+    }
+  }
+}
